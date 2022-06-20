@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construction Material Warehouse API", "Construction Material Warehouse API\Construction Material Warehouse API.csproj", "{EEC8E9A3-235D-4FD7-AB00-490A0A1B71F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{7566636B-BE2B-4E32-A7A1-C49A876AF9C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{DAD9E106-4049-46AE-8025-C3F412B1614C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E8B34967-F933-41AD-BECF-28B4E2A72D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC8E9A3-235D-4FD7-AB00-490A0A1B71F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC8E9A3-235D-4FD7-AB00-490A0A1B71F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC8E9A3-235D-4FD7-AB00-490A0A1B71F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC8E9A3-235D-4FD7-AB00-490A0A1B71F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EEC8E9A3-235D-4FD7-AB00-490A0A1B71F4} = {7566636B-BE2B-4E32-A7A1-C49A876AF9C1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA6DBF5-4A7B-4045-BE59-EB4C03B0BCFB}
+	EndGlobalSection
+EndGlobal
