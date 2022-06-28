@@ -8,7 +8,7 @@ namespace Construction_Material_Warehouse_Domain.Classes
         public string ProductDescription { get; set; }
         public ProductsCategory ProductCategory { get; set; }
         public ProductsCategory ProductCategoryId { get; set; }
-        public int StockQuantity { get; set; }
+        public Stock StockQuantity { get; set; }
         public double ProductPrice { get; set; }
         public bool HaveDiscount { get; set; }
         public int? DiscountAmount { get; set; }

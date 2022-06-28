@@ -9,8 +9,8 @@ namespace Construction_Material_Warehouse_Domain.Classes
         public int StockProductId { get; set; }
         public int StockProductAmount { get; set; }
         public bool IsProductAvailable { get; set; }
-        public Users SystemInclusionUser { get; set; }
         public DateTime SystemInclusionDate { get; set; }
+        public Users SystemInclusionUser { get; set; }
         public int[] StockPermissionsIds { get; set; }
     }
 }

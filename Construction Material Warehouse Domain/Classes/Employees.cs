@@ -21,6 +21,6 @@ namespace Construction_Material_Warehouse_Domain.Classes
         public string EmpAccessName { get; set; }
         public string EmpPassword { get; set; }
         public DateTime SystemInclusionDate { get; set; }
-        public Users UserIdSystemInclusion { get; set; }
+        public Users SystemInclusionUser { get; set; }
     }
 }
